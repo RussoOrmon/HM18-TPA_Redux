@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HM18-TPA_Redux/static/css/main.7d9e431f.css",
+    "main.js": "/HM18-TPA_Redux/static/js/main.64733dd1.js",
+    "index.html": "/HM18-TPA_Redux/index.html",
+    "main.7d9e431f.css.map": "/HM18-TPA_Redux/static/css/main.7d9e431f.css.map",
+    "main.64733dd1.js.map": "/HM18-TPA_Redux/static/js/main.64733dd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d9e431f.css",
+    "static/js/main.64733dd1.js"
+  ]
+}
